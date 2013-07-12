@@ -96,6 +96,10 @@ class MysqliDb
      */
     protected function reset()
     {
+        echo "Time: " . date("h:m:s") . ":::" . $this->_query . "
+Values:" ;
+        unset ($this->_bindParams[0]); //ignore type string
+        print_r($this->_bindParams);
         $this->_where = array();
         $this->_bindParams = array(''); // Create the empty 0 index
         unset($this->_query);
