@@ -63,7 +63,7 @@ class Record {
         $this->init = function($table = null) use (&$instance) {
                 //default table name to the name of the child class.                      
                 if (!isset($table)) {
-                    $table = get_called_class();
+                    $table = strtolower(get_called_class());
                 }
                 $this->table = $table;
                 
