@@ -14,10 +14,12 @@ require 'MysqliDb.class.php';
  * 
  * Your extended class should have the following type of constructor
  * 
- * public function __construct($table = null, $primary_key = null) {
- *       parent::__construct(new MysqliDb('localhost', 'root', '123', 'asdf_development'), null, 'id');
- *       $this->init->__invoke(isset($table) ? $table : get_class());    
- * }
+ *   class User extends Record {
+ *       public function __construct($database, $table = null, $primary_key = null) {
+ *           parent::__construct($database, null, 'id');
+ *           $this->init->__invoke(isset($table) ? $table : get_class());
+ *       }
+ *   }
  */
 class Record {
     /**
@@ -34,6 +36,10 @@ class Record {
      * @var array
      */
     public $row;
+    /**
+     * The table this object refers to
+     */
+    protected $table;
     /**
      * Table's primary key defaults to the child's class name
      * @var string
@@ -56,37 +62,48 @@ class Record {
         $this->db = $database;
         $this->primary_key = $primary_key;
         $instance = $this;
-        
+                
         /**
          * Defines an init script to inject functions
          */
-        $this->init = function($table = null) use (&$instance) {
-                //default table name to the name of the child class.                      
-                if (!isset($table)) {
+        $this->init = function($table = null, $primary_key) use (&$instance) {
+            
+                if(!isset($table)){
                     $table = strtolower(get_called_class());
                 }
-                $this->table = $table;
+            
+                $instance -> table = $table;
+                
+                if(!isset($primary_key)){
+                    $primary_key = strtolower(get_called_class() . '_id');
+                }
+                $instance -> primary_key = $primary_key;
+                
+                
+                /**
+                 * Find rows by criteria
+                 */
+                $instance->find_where = function (array $where_filter = null) use (&$instance) {
+
+                        //dont know why I have to do this next line...
+                        $where_filter = $where_filter[0];
+                        foreach ($where_filter as  $key => $value){
+                            $instance->db->where($key,$value);
+                        }
+                        
+                        $instance->rows = $instance->db->get($instance->table);
+                        $instance -> row = $instance->rows[0];
+                        return $instance -> rows;
+                };
+                
                 
                 
                 //get the list of columns for this table.
                 $sql = "SHOW COLUMNS FROM " . $table;
                 $cols = $this->db->rawQuery($sql);
+                
+                
                 foreach ($cols as $col) {
-                    /**
-                     * Find rows by criteria
-                     */
-                    $instance->find_where = function (array $where_filter = null) use (&$instance) {
-
-                            //dont know why I have to do this next line...
-                            $where_filter = $where_filter[0];
-                            foreach ($where_filter as  $key => $value){
-                                $instance->db->where($key,$value);
-                            }
-
-                            $instance->rows = $instance->db->get($this->table);
-                            $instance -> row = $instance->rows[0];
-                            return $instance -> rows;
-                    };
                     
                     /**
                      * Function name is dynamicly generated, but corresponds to 
@@ -96,6 +113,9 @@ class Record {
                      */
                     $instance->{$col['Field']} = function ($x) use (&$instance, $col){
                         if(isset($this->row)){
+                            if(is_array($x)){
+                                $x = $x[0];
+                            }
                             $instance->row[$col['Field']] = $x;
                         }else{
                             throw new Exception("No row has been loaded yet!");
@@ -105,15 +125,19 @@ class Record {
                     /**
                      * Saves the object
                      */
-                    $instance -> save = function () use(&$instance) {        
+                    $instance -> save = function () use(&$instance) {
+                        $result = false;
                         if(isset($instance->row[$instance->primary_key])){
                             //record exists in database.
                             $instance->db
                                 ->where($instance->primary_key, $instance->row[$instance->primary_key])
                                 ->update($instance->table, $instance->row);
+                            $result = true;
                         }else{
                             $instance->db->insert($instance->table, $instance->row);
+                            $result = true;
                         }
+                        return $result;
                     };
                     
                     /**
@@ -124,7 +148,7 @@ class Record {
                         $instance -> db -> save();
                     };
                     /**
-                     * Creates and saves the object
+                     * Creates and saves, then clears the object
                      */
                     $instance -> create_and_reset = function ($array) use(&$instance){
                         $instance -> row = $array;
@@ -142,10 +166,10 @@ class Record {
                      * Delete the current row
                      */
                     $instance -> delete = function() use(&$instance){
-                        $instance -> db -> where (array(
-                                $instance -> primary_key => $instance -> row[$instance -> primary_key]
-                            )
-                        ) -> delete();
+                        $instance -> db -> where (
+                                $instance -> primary_key, $instance -> row[$instance -> primary_key]
+                        ) -> delete($instance->table);
+                        return true;
                     };
                 }
         };

@@ -96,10 +96,12 @@ class MysqliDb
      */
     protected function reset()
     {
-        echo "Time: " . date("h:m:s") . ":::" . $this->_query . "
-Values:" ;
+        $fp = fopen('../log/queries.log','a');
+        fwrite($fp, "Time: " . date("h:m:s") . ":::" . $this->_query."\n");
         unset ($this->_bindParams[0]); //ignore type string
-        print_r($this->_bindParams);
+        fwrite($fp, print_r($this->_bindParams,true));
+        
+        
         $this->_where = array();
         $this->_bindParams = array(''); // Create the empty 0 index
         unset($this->_query);
@@ -133,7 +135,7 @@ Values:" ;
 
         $stmt->execute();
         $this->reset();
-
+        
         return $this->_dynamicBindResults($stmt);
     }
 
@@ -415,10 +417,15 @@ Values:" ;
      */
     protected function _dynamicBindResults(mysqli_stmt $stmt)
     {
+        $meta = $stmt->result_metadata();
+        if(!$meta){
+            //this query produces no results
+            return;
+        }
         $parameters = array();
         $results = array();
 
-        $meta = $stmt->result_metadata();
+        
 
         $row = array();
         while ($field = $meta->fetch_field()) {

@@ -4,7 +4,7 @@ require_once 'Record.class.php';
 
 class User extends Record {
     public function __construct($database, $table = null, $primary_key = null) {
-        parent::__construct($database, null, 'id');
+        parent::__construct($database);
         $this->init->__invoke(isset($table) ? $table : get_class());
     }
 }
@@ -35,7 +35,7 @@ $rows = $user -> find_where(
 print_r($rows);
 
 //By convention the currently active row(default $rows[0]) is set as follows:
-print_r($row);
+print_r($rows[0]);
 //also notice that this will print out the same as above.
 print_r($user -> row);
 

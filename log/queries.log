@@ -1,0 +1,3217 @@
+Time: 12:07:16:::SHOW COLUMNS FROM user
+Values:Time: 12:07:16:::DROP TABLE IF EXISTS `test`.`users`
+Values:Time: 12:07:34:::SHOW COLUMNS FROM user
+Values:Time: 12:07:34:::DROP TABLE IF EXISTS `test`.`users`
+Values:Time: 12:07:04:::SHOW COLUMNS FROM user
+Values:Time: 12:07:04:::DROP TABLE IF EXISTS `test`.`users`
+Values:Time: 12:07:51:::SHOW COLUMNS FROM user
+Values:Array
+(
+)
+Time: 12:07:51:::DROP TABLE IF EXISTS `test`.`users`
+Values:Array
+(
+)
+Time: 12:07:51:::
+            CREATE  TABLE `test`.`users` (
+            `users` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`users`) );
+        
+Values:Array
+(
+)
+Time: 12:07:51:::SHOW COLUMNS FROM user
+Values:Array
+(
+)
+Time: 12:07:41:::SHOW COLUMNS FROM userArray
+(
+)
+Time: 12:07:41:::DROP TABLE IF EXISTS `test`.`users`Array
+(
+)
+Time: 12:07:41:::
+            CREATE  TABLE `test`.`users` (
+            `users` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`users`) );
+        Array
+(
+)
+Time: 12:07:41:::SHOW COLUMNS FROM userArray
+(
+)
+Time: 12:07:55:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:55:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:55:::
+            CREATE  TABLE `test`.`users` (
+            `users` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`users`) );
+        
+Array
+(
+)
+Time: 12:07:55:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:55:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:55:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:55:::
+            CREATE  TABLE `test`.`users` (
+            `users` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`users`) );
+        
+Array
+(
+)
+Time: 12:07:55:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:56:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:56:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:56:::
+            CREATE  TABLE `test`.`users` (
+            `users` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`users`) );
+        
+Array
+(
+)
+Time: 12:07:56:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:56:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:56:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:56:::
+            CREATE  TABLE `test`.`users` (
+            `users` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`users`) );
+        
+Array
+(
+)
+Time: 12:07:56:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:16:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:16:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:16:::
+            CREATE  TABLE `test`.`users` (
+            `users` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`users`) );
+        
+Array
+(
+)
+Time: 12:07:16:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:01:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:01:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:01:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:01:::
+            CREATE  TABLE `test`.`users` (
+            `users` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`users`) );
+        
+Array
+(
+)
+Time: 12:07:01:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:01:::
+            CREATE  TABLE `test`.`users` (
+            `users` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`users`) );
+        
+Array
+(
+)
+Time: 12:07:17:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:17:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:17:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:17:::
+            CREATE  TABLE `test`.`users` (
+            `users` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`users`) );
+        
+Array
+(
+)
+Time: 12:07:17:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:17:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:17:::
+            CREATE  TABLE `test`.`users` (
+            `users` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`users`) );
+        
+Array
+(
+)
+Time: 12:07:17:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:52:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:52:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:52:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:52:::
+            CREATE  TABLE `test`.`users` (
+            `users` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`users`) );
+        
+Array
+(
+)
+Time: 12:07:52:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:52:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:52:::
+            CREATE  TABLE `test`.`users` (
+            `users` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`users`) );
+        
+Array
+(
+)
+Time: 12:07:52:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:32:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:32:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:32:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:32:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`users`) );
+        
+Array
+(
+)
+Time: 12:07:32:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:32:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:32:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`users`) );
+        
+Array
+(
+)
+Time: 12:07:32:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:35:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:35:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:35:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:35:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`users`) );
+        
+Array
+(
+)
+Time: 12:07:35:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:35:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:35:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`users`) );
+        
+Array
+(
+)
+Time: 12:07:35:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:45:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:45:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:45:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:45:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`users`) );
+        
+Array
+(
+)
+Time: 12:07:45:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:45:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:45:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`users`) );
+        
+Array
+(
+)
+Time: 12:07:45:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:51:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:51:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:51:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:51:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`users`) );
+        
+Array
+(
+)
+Time: 12:07:51:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:51:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:51:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`users`) );
+        
+Array
+(
+)
+Time: 12:07:51:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:01:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:01:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:01:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:01:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:01:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:01:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:01:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:01:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:01:::SELECT * FROM users WHERE user_id = ?
+Array
+(
+    [1] => 1
+)
+Time: 12:07:46:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:47:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:47:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:47:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:47:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:47:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:47:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:47:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:50:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:50:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:50:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:50:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:50:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:50:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:50:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:50:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:35:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:35:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:35:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:35:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:35:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:35:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:35:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:35:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:09:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:09:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:10:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:10:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:10:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:10:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:10:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:10:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:10:::SELECT * FROM users WHERE user_id = ?
+Array
+(
+    [1] => 1
+)
+Time: 12:07:27:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:27:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:27:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:27:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:27:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:27:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:27:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:27:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:52:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:52:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:52:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:52:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:52:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:52:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:48:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:48:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:48:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:48:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:48:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:48:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:20:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:20:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:20:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:20:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:20:::INSERT INTO users (username,email,password_digest)
+              VALUES(?,?,?)
+Array
+(
+)
+Time: 12:07:20:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:20:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:20:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:20:::INSERT INTO users (username,email,password_digest)
+              VALUES(?,?,?)
+Array
+(
+)
+Time: 12:07:20:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:44:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:44:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:44:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:44:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:44:::INSERT INTO users (username,email,password_digest)
+              VALUES(?,?,?)
+Array
+(
+)
+Time: 12:07:44:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:44:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:44:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:44:::INSERT INTO users (username,email,password_digest)
+              VALUES(?,?,?)
+Array
+(
+)
+Time: 12:07:44:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:44:::SELECT * FROM users WHERE user_id = ?
+Array
+(
+    [1] => 1
+)
+Time: 12:07:31:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:31:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:31:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:31:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:31:::INSERT INTO users (username,email,password_digest)
+              VALUES(?,?,?)
+Array
+(
+)
+Time: 12:07:31:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:31:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:31:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:31:::INSERT INTO users (username,email,password_digest)
+              VALUES(?,?,?)
+Array
+(
+)
+Time: 12:07:31:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:31:::SELECT * FROM users WHERE user_id = ?
+Array
+(
+    [1] => 1
+)
+Time: 12:07:45:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:45:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:45:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:45:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:45:::INSERT INTO users (username,email,password_digest)
+              VALUES(?,?,?)
+Array
+(
+)
+Time: 12:07:45:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:45:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:45:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:45:::INSERT INTO users (username,email,password_digest)
+              VALUES(?,?,?)
+Array
+(
+)
+Time: 12:07:45:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:45:::SELECT * FROM users WHERE user_id = ?
+Array
+(
+    [1] => 1
+)
+Time: 12:07:48:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:48:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:48:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:48:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:48:::INSERT INTO users (username,email,password_digest)
+              VALUES(?,?,?)
+Array
+(
+)
+Time: 12:07:48:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:48:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:48:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:48:::INSERT INTO users (username,email,password_digest)
+              VALUES(?,?,?)
+Array
+(
+)
+Time: 12:07:48:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:48:::SELECT * FROM users WHERE user_id = ?
+Array
+(
+    [1] => 1
+)
+Time: 12:07:48:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:48:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:48:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:48:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:48:::INSERT INTO users (username,email,password_digest)
+              VALUES(?,?,?)
+Array
+(
+)
+Time: 12:07:48:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:48:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:48:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:48:::INSERT INTO users (username,email,password_digest)
+              VALUES(?,?,?)
+Array
+(
+)
+Time: 12:07:48:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:48:::SELECT * FROM users WHERE user_id = ?
+Array
+(
+    [1] => 1
+)
+Time: 12:07:27:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:27:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:27:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:27:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:27:::INSERT INTO users (username,email,password_digest)
+              VALUES(?,?,?)
+Array
+(
+)
+Time: 12:07:27:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:27:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:27:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:27:::INSERT INTO users (username,email,password_digest)
+              VALUES(?,?,?)
+Array
+(
+)
+Time: 12:07:27:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:40:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:40:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:40:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:40:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:40:::INSERT INTO users (username,email,password_digest)
+              VALUES(?,?,?)
+Array
+(
+)
+Time: 12:07:40:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:40:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:40:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:40:::INSERT INTO users (username,email,password_digest)
+              VALUES(?,?,?)
+Array
+(
+)
+Time: 12:07:40:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:02:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:02:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:02:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:02:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:02:::INSERT INTO users (username,email,password_digest)
+              VALUES(?,?,?)
+Array
+(
+)
+Time: 12:07:02:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:02:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:02:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:02:::INSERT INTO users (username,email,password_digest)
+              VALUES(?,?,?)
+Array
+(
+)
+Time: 12:07:02:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:34:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:34:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:34:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:35:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:35:::INSERT INTO users (username,email,password_digest)
+              VALUES(?,?,?)
+Array
+(
+)
+Time: 12:07:35:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:35:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:35:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:35:::INSERT INTO users (username,email,password_digest)
+              VALUES(?,?,?)
+Array
+(
+)
+Time: 12:07:35:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:04:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:04:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:04:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:04:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:04:::INSERT INTO users (username,email,password_digest)
+              VALUES(?,?,?)
+Array
+(
+)
+Time: 12:07:04:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:04:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:04:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:04:::INSERT INTO users (username,email,password_digest)
+              VALUES(?,?,?)
+Array
+(
+)
+Time: 12:07:04:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:43:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:50:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:52:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:52:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:52:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:52:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:52:::INSERT INTO users (username,email,password_digest)
+              VALUES(?,?,?)
+Array
+(
+)
+Time: 12:07:52:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:52:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:52:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:52:::INSERT INTO users (username,email,password_digest)
+              VALUES(?,?,?)
+Array
+(
+)
+Time: 12:07:52:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:54:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:54:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:55:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:55:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:55:::INSERT INTO users (username,email,password_digest)
+              VALUES(?,?,?)
+Array
+(
+)
+Time: 12:07:55:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:55:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:55:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:55:::INSERT INTO users (username,email,password_digest)
+              VALUES(?,?,?)
+Array
+(
+)
+Time: 12:07:55:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:56:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:56:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:56:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:56:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:56:::INSERT INTO users (username,email,password_digest)
+              VALUES(?,?,?)
+Array
+(
+)
+Time: 12:07:56:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:56:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:56:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:56:::INSERT INTO users (username,email,password_digest)
+              VALUES(?,?,?)
+Array
+(
+)
+Time: 12:07:56:::SHOW COLUMNS FROM user
+Array
+(
+)
+Time: 12:07:45:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:45:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:45:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:45:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:45:::INSERT INTO users (username,email,password_digest)
+              VALUES(?,?,?)
+Array
+(
+)
+Time: 12:07:45:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:45:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:45:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:45:::INSERT INTO users (username,email,password_digest)
+              VALUES(?,?,?)
+Array
+(
+)
+Time: 12:07:45:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:54:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:54:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:54:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:54:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:54:::INSERT INTO users (username,email,password_digest)
+              VALUES(?,?,?)
+Array
+(
+)
+Time: 12:07:54:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:54:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:54:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:54:::INSERT INTO users (username,email,password_digest)
+              VALUES(?,?,?)
+Array
+(
+)
+Time: 12:07:54:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:54:::SELECT * FROM users WHERE user_id = ?
+Array
+(
+    [1] => 1
+)
+Time: 12:07:44:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:44:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:44:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:44:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:44:::INSERT INTO users (username,email,password_digest)
+              VALUES(?,?,?)
+Array
+(
+)
+Time: 12:07:44:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:44:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:44:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:44:::INSERT INTO users (username,email,password_digest)
+              VALUES(?,?,?)
+Array
+(
+)
+Time: 12:07:44:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:44:::SELECT * FROM users WHERE user_id = ?
+Array
+(
+    [1] => 1
+)
+Time: 12:07:59:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:59:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:59:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:59:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:59:::INSERT INTO users (username,email,password_digest)
+              VALUES(?,?,?)
+Array
+(
+)
+Time: 12:07:59:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:59:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:59:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:59:::INSERT INTO users (username,email,password_digest)
+              VALUES(?,?,?)
+Array
+(
+)
+Time: 12:07:59:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:59:::SELECT * FROM users WHERE user_id = ?
+Array
+(
+    [1] => 1
+)
+Time: 12:07:00:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:00:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:00:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:00:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:00:::INSERT INTO users (username,email,password_digest)
+              VALUES(?,?,?)
+Array
+(
+)
+Time: 12:07:00:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:00:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:00:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:00:::INSERT INTO users (username,email,password_digest)
+              VALUES(?,?,?)
+Array
+(
+)
+Time: 12:07:00:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:00:::SELECT * FROM users WHERE user_id = ?
+Array
+(
+    [1] => 1
+)
+Time: 12:07:00:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:00:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:00:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:00:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:00:::INSERT INTO users (username,email,password_digest)
+              VALUES(?,?,?)
+Array
+(
+)
+Time: 12:07:00:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:00:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:00:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:00:::INSERT INTO users (username,email,password_digest)
+              VALUES(?,?,?)
+Array
+(
+)
+Time: 12:07:00:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:00:::SELECT * FROM users WHERE user_id = ?
+Array
+(
+    [1] => 1
+)
+Time: 12:07:00:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:00:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:00:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:00:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:00:::INSERT INTO users (username,email,password_digest)
+              VALUES(?,?,?)
+Array
+(
+)
+Time: 12:07:00:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:00:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:00:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:00:::INSERT INTO users (username,email,password_digest)
+              VALUES(?,?,?)
+Array
+(
+)
+Time: 12:07:00:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:00:::SELECT * FROM users WHERE user_id = ?
+Array
+(
+    [1] => 1
+)
+Time: 12:07:00:::SELECT * FROM users WHERE email = ?
+Array
+(
+    [1] => jonathan.frias1@gmail.com
+)
+Time: 12:07:01:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:01:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:01:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:01:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:01:::INSERT INTO users (username,email,password_digest)
+              VALUES(?,?,?)
+Array
+(
+)
+Time: 12:07:01:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:01:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:01:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:01:::INSERT INTO users (username,email,password_digest)
+              VALUES(?,?,?)
+Array
+(
+)
+Time: 12:07:01:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:01:::SELECT * FROM users WHERE user_id = ?
+Array
+(
+    [1] => 1
+)
+Time: 12:07:01:::SELECT * FROM users WHERE email = ?
+Array
+(
+    [1] => jonathan.frias1@gmail.com
+)
+Time: 12:07:01:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:01:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:01:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:01:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:01:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:01:::INSERT INTO users (username,email,password_digest)
+              VALUES(?,?,?)
+Array
+(
+)
+Time: 12:07:01:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:01:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:01:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:01:::INSERT INTO users (username,email,password_digest)
+              VALUES(?,?,?)
+Array
+(
+)
+Time: 12:07:01:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:01:::SELECT * FROM users WHERE user_id = ?
+Array
+(
+    [1] => 1
+)
+Time: 12:07:01:::SELECT * FROM users WHERE email = ?
+Array
+(
+    [1] => jonathan.frias1@gmail.com
+)
+Time: 12:07:01:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:01:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:01:::INSERT INTO users (username,email,password_digest)
+              VALUES(?,?,?)
+Array
+(
+)
+Time: 12:07:01:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:01:::SELECT * FROM users WHERE user_id = ?
+Array
+(
+    [1] => 1
+)
+Time: 12:07:46:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:46:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:46:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:46:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:46:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:46:::INSERT INTO users (username,email,password_digest)
+              VALUES(?,?,?)
+Array
+(
+)
+Time: 12:07:46:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:46:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:46:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:46:::INSERT INTO users (username,email,password_digest)
+              VALUES(?,?,?)
+Array
+(
+)
+Time: 12:07:46:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:46:::SELECT * FROM users WHERE user_id = ?
+Array
+(
+    [1] => 1
+)
+Time: 12:07:46:::SELECT * FROM users WHERE email = ?
+Array
+(
+    [1] => jonathan.frias1@gmail.com
+)
+Time: 12:07:46:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:46:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:46:::INSERT INTO users (username,email,password_digest)
+              VALUES(?,?,?)
+Array
+(
+)
+Time: 12:07:46:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:46:::SELECT * FROM users WHERE user_id = ?
+Array
+(
+    [1] => 1
+)
+Time: 12:07:12:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:12:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:12:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:12:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:12:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:12:::INSERT INTO users (username,email,password_digest)
+              VALUES(?,?,?)
+Array
+(
+)
+Time: 12:07:12:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:12:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:12:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:12:::INSERT INTO users (username,email,password_digest)
+              VALUES(?,?,?)
+Array
+(
+)
+Time: 12:07:12:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:12:::SELECT * FROM users WHERE user_id = ?
+Array
+(
+    [1] => 1
+)
+Time: 12:07:12:::SELECT * FROM users WHERE email = ?
+Array
+(
+    [1] => jonathan.frias1@gmail.com
+)
+Time: 12:07:12:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:12:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:12:::INSERT INTO users (username,email,password_digest)
+              VALUES(?,?,?)
+Array
+(
+)
+Time: 12:07:12:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:12:::SELECT * FROM users WHERE user_id = ?
+Array
+(
+    [1] => 1
+)
+Time: 12:07:43:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:43:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:43:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:43:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:43:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:43:::INSERT INTO users (username,email,password_digest)
+              VALUES(?,?,?)
+Array
+(
+)
+Time: 12:07:43:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:43:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:43:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:43:::INSERT INTO users (username,email,password_digest)
+              VALUES(?,?,?)
+Array
+(
+)
+Time: 12:07:43:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:43:::SELECT * FROM users WHERE user_id = ?
+Array
+(
+    [1] => 1
+)
+Time: 12:07:43:::SELECT * FROM users WHERE email = ?
+Array
+(
+    [1] => jonathan.frias1@gmail.com
+)
+Time: 12:07:43:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:43:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:43:::INSERT INTO users (username,email,password_digest)
+              VALUES(?,?,?)
+Array
+(
+)
+Time: 12:07:43:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:43:::SELECT * FROM users WHERE user_id = ?
+Array
+(
+    [1] => 1
+)
+Time: 12:07:44:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:44:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:44:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:44:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:44:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:44:::INSERT INTO users (username,email,password_digest)
+              VALUES(?,?,?)
+Array
+(
+)
+Time: 12:07:44:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:44:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:44:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:44:::INSERT INTO users (username,email,password_digest)
+              VALUES(?,?,?)
+Array
+(
+)
+Time: 12:07:44:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:44:::SELECT * FROM users WHERE user_id = ?
+Array
+(
+    [1] => 1
+)
+Time: 12:07:44:::SELECT * FROM users WHERE email = ?
+Array
+(
+    [1] => jonathan.frias1@gmail.com
+)
+Time: 12:07:44:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:44:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:44:::INSERT INTO users (username,email,password_digest)
+              VALUES(?,?,?)
+Array
+(
+)
+Time: 12:07:44:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:44:::SELECT * FROM users WHERE user_id = ?
+Array
+(
+    [1] => 1
+)
+Time: 12:07:19:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:19:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:19:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:19:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:19:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:19:::INSERT INTO users (username,email,password_digest)
+              VALUES(?,?,?)
+Array
+(
+)
+Time: 12:07:19:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:19:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:19:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:19:::INSERT INTO users (username,email,password_digest)
+              VALUES(?,?,?)
+Array
+(
+)
+Time: 12:07:19:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:19:::SELECT * FROM users WHERE user_id = ?
+Array
+(
+    [1] => 1
+)
+Time: 12:07:19:::SELECT * FROM users WHERE email = ?
+Array
+(
+    [1] => jonathan.frias1@gmail.com
+)
+Time: 12:07:19:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:19:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:19:::INSERT INTO users (username,email,password_digest)
+              VALUES(?,?,?)
+Array
+(
+)
+Time: 12:07:19:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:19:::SELECT * FROM users WHERE user_id = ?
+Array
+(
+    [1] => 1
+)
+Time: 12:07:19:::UPDATE users SET user_id = ?, username = ?, email = ?, password_digest = ? WHERE user_id = ?
+Array
+(
+    [1] => 1
+    [2] => jonathanFrias
+    [3] => jonathan.frias1@gmail.com
+    [4] => 154db6120a14b6f6f855e9d3edd41767
+    [5] => 1
+)
+Time: 12:07:48:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:48:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:48:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:48:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:48:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:48:::INSERT INTO users (username,email,password_digest)
+              VALUES(?,?,?)
+Array
+(
+)
+Time: 12:07:48:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:48:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:48:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:48:::INSERT INTO users (username,email,password_digest)
+              VALUES(?,?,?)
+Array
+(
+)
+Time: 12:07:48:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:48:::SELECT * FROM users WHERE user_id = ?
+Array
+(
+    [1] => 1
+)
+Time: 12:07:48:::SELECT * FROM users WHERE email = ?
+Array
+(
+    [1] => jonathan.frias1@gmail.com
+)
+Time: 12:07:48:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:48:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:48:::INSERT INTO users (username,email,password_digest)
+              VALUES(?,?,?)
+Array
+(
+)
+Time: 12:07:48:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:48:::SELECT * FROM users WHERE user_id = ?
+Array
+(
+    [1] => 1
+)
+Time: 12:07:48:::UPDATE users SET user_id = ?, username = ?, email = ?, password_digest = ? WHERE user_id = ?
+Array
+(
+    [1] => 1
+    [2] => jonathanFrias
+    [3] => jonathan.frias1@gmail.com
+    [4] => 154db6120a14b6f6f855e9d3edd41767
+    [5] => 1
+)
+Time: 12:07:06:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:06:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:06:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:06:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:06:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:06:::INSERT INTO users (username,email,password_digest)
+              VALUES(?,?,?)
+Array
+(
+)
+Time: 12:07:06:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:06:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:06:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:06:::INSERT INTO users (username,email,password_digest)
+              VALUES(?,?,?)
+Array
+(
+)
+Time: 12:07:06:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:06:::SELECT * FROM users WHERE user_id = ?
+Array
+(
+    [1] => 1
+)
+Time: 12:07:06:::SELECT * FROM users WHERE email = ?
+Array
+(
+    [1] => jonathan.frias1@gmail.com
+)
+Time: 12:07:06:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:06:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:06:::INSERT INTO users (username,email,password_digest)
+              VALUES(?,?,?)
+Array
+(
+)
+Time: 12:07:06:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:06:::SELECT * FROM users WHERE user_id = ?
+Array
+(
+    [1] => 1
+)
+Time: 12:07:06:::UPDATE users SET user_id = ?, username = ?, email = ?, password_digest = ? WHERE user_id = ?
+Array
+(
+    [1] => 1
+    [2] => jonathanFrias
+    [3] => jonathan.frias1@gmail.com
+    [4] => 154db6120a14b6f6f855e9d3edd41767
+    [5] => 1
+)
+Time: 12:07:25:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:25:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:25:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:25:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:25:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:25:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:25:::INSERT INTO users (username,email,password_digest)
+              VALUES(?,?,?)
+Array
+(
+)
+Time: 12:07:25:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:25:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:25:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:25:::INSERT INTO users (username,email,password_digest)
+              VALUES(?,?,?)
+Array
+(
+)
+Time: 12:07:25:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:25:::SELECT * FROM users WHERE user_id = ?
+Array
+(
+    [1] => 1
+)
+Time: 12:07:25:::SELECT * FROM users WHERE email = ?
+Array
+(
+    [1] => jonathan.frias1@gmail.com
+)
+Time: 12:07:25:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:25:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:25:::INSERT INTO users (username,email,password_digest)
+              VALUES(?,?,?)
+Array
+(
+)
+Time: 12:07:25:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:25:::SELECT * FROM users WHERE user_id = ?
+Array
+(
+    [1] => 1
+)
+Time: 12:07:51:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:51:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:51:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:51:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:51:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:51:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:51:::INSERT INTO users (username,email,password_digest)
+              VALUES(?,?,?)
+Array
+(
+)
+Time: 12:07:51:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:51:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:51:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:51:::INSERT INTO users (username,email,password_digest)
+              VALUES(?,?,?)
+Array
+(
+)
+Time: 12:07:51:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:51:::SELECT * FROM users WHERE user_id = ?
+Array
+(
+    [1] => 1
+)
+Time: 12:07:51:::SELECT * FROM users WHERE email = ?
+Array
+(
+    [1] => jonathan.frias1@gmail.com
+)
+Time: 12:07:51:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:51:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:51:::INSERT INTO users (username,email,password_digest)
+              VALUES(?,?,?)
+Array
+(
+)
+Time: 12:07:51:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:51:::SELECT * FROM users WHERE user_id = ?
+Array
+(
+    [1] => 1
+)
+Time: 12:07:51:::UPDATE users SET user_id = ?, username = ?, email = ?, password_digest = ? WHERE user_id = ?
+Array
+(
+    [1] => 1
+    [2] => jonathanFrias
+    [3] => jonathan.frias1@gmail.com
+    [4] => 154db6120a14b6f6f855e9d3edd41767
+    [5] => 1
+)
+Time: 12:07:51:::DROP TABLE IF EXISTS `test`.`users`
+Array
+(
+)
+Time: 12:07:51:::
+            CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+        
+Array
+(
+)
+Time: 12:07:51:::INSERT INTO users (username,email,password_digest)
+              VALUES(?,?,?)
+Array
+(
+)
+Time: 12:07:51:::SHOW COLUMNS FROM users
+Array
+(
+)
+Time: 12:07:51:::SELECT * FROM users WHERE user_id = ?
+Array
+(
+    [1] => 1
+)
+Time: 12:07:51:::DELETE FROM users WHERE user_id = ?
+Array
+(
+    [1] => 1
+)
