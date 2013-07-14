@@ -54,6 +54,10 @@ class MysqliDb
      * @var array
      */
     protected $_bindParams = array(''); // Create the empty 0 index
+    /**
+     * Optional variable to set a query log location.
+     */
+    private $log;
 
     /**
      * @param string $host
@@ -62,8 +66,9 @@ class MysqliDb
      * @param string $db
      * @param int $port
      */
-    public function __construct($host, $username, $password, $db, $port = NULL)
+    public function __construct($host, $username, $password, $db, $port = NULL, $log = null)
     {
+        $this->log = $log
         if($port == NULL)
             $port = ini_get('mysqli.default_port');
         
@@ -96,10 +101,12 @@ class MysqliDb
      */
     protected function reset()
     {
-        $fp = fopen('../log/queries.log','a');
-        fwrite($fp, "Time: " . date("h:m:s") . ":::" . $this->_query."\n");
-        unset ($this->_bindParams[0]); //ignore type string
-        fwrite($fp, print_r($this->_bindParams,true));
+        if(isset($this->log)){
+          $fp = fopen($this->log, 'a');
+          fwrite($fp, "Time: " . date("h:m:s") . ":::" . $this->_query."\n");
+          unset ($this->_bindParams[0]); //ignore type string
+          fwrite($fp, print_r($this->_bindParams,true));
+        }
         
         
         $this->_where = array();
