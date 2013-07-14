@@ -8,6 +8,9 @@ Create database schema:
             `email` VARCHAR(45) NULL ,
             `password_digest` VARCHAR(45) NULL ,
             PRIMARY KEY (`user_id`) );
+
+
+
             
 
     <?php
