@@ -68,9 +68,10 @@ class MysqliDb
      */
     public function __construct($host, $username, $password, $db, $port = NULL, $log = null)
     {
-        $this->log = $log
-        if($port == NULL)
+        $this->log = $log;
+        if ($port == NULL){
             $port = ini_get('mysqli.default_port');
+        }
         
         $this->_mysqli = new mysqli($host, $username, $password, $db, $port)
             or die('There was a problem connecting to the database');
