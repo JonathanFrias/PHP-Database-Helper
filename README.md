@@ -9,9 +9,9 @@ Create database schema:
             `password_digest` VARCHAR(45) NULL ,
             PRIMARY KEY (`user_id`) );
 
+Now use the class.
 
 
-            
 
     <?php
     require_once 'Record.class.php';
