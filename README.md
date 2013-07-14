@@ -37,7 +37,7 @@ You can override this by telling it what your table name is
 
     new User($db, 'users');
 
-By default it will also look for a primary key called tablename_id or in our case
+By default it will also look for a primary key called classname_id or in our case
 user_id. There is no need to override in this case but you can specify it here.
 
     $user = new User($db, 'users', 'user_id');
