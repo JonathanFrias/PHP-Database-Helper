@@ -54,6 +54,7 @@ Find a row. You can use any database column here.
 Print all rows found
 
     print_r($rows);
+    print_r($user -> rows);    
 
 By convention the currently active row(default $rows[0]) is set as follows:
 
