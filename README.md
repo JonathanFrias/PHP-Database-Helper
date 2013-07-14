@@ -1,4 +1,14 @@
-This is a small ORM that I wrote for fun. Here's how you use it!
+This is a small ORM that I wrote for fun. Here's how you use it! Requires: PHP 5.3+ 
+
+Create database schema:
+
+    CREATE  TABLE `test`.`users` (
+            `user_id` INT NOT NULL AUTO_INCREMENT ,
+            `username` VARCHAR(45) NULL ,
+            `email` VARCHAR(45) NULL ,
+            `password_digest` VARCHAR(45) NULL ,
+            PRIMARY KEY (`user_id`) );
+            
 
     <?php
     require_once 'Record.class.php';
@@ -6,7 +16,7 @@ This is a small ORM that I wrote for fun. Here's how you use it!
     class User extends Record {
         public function __construct($database, $table = null, $primary_key = null) {
             parent::__construct($database);
-            $this->init->__invoke(isset($table) ? $table : get_class());
+            $this->init->__invoke(isset($table) ? $table : get_class(), $primary_key);
         }
     }
     ?>
