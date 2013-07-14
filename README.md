@@ -67,7 +67,7 @@ There is a coressponding function for every column in the database.
 
     $user -> password("new password!");
 
-Save your object to the database. 
+Save your object to the database. This ORM uses prepared statements to run all of the inserts.
 
     $user -> save();
 
