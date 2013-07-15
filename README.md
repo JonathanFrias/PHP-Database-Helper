@@ -2,7 +2,7 @@ This is a small ORM that I wrote for fun. Here's how you use it! Requires: PHP 5
 
 Create database schema:
 
-    CREATE  TABLE `test`.`users` (
+    CREATE  TABLE `users` (
             `user_id` INT NOT NULL AUTO_INCREMENT ,
             `username` VARCHAR(45) NULL ,
             `email` VARCHAR(45) NULL ,
@@ -28,7 +28,7 @@ That's it! that's all you need to get started!
 
 Create a database connection using the provided helper
 
-    $db = new MysqliDb('localhost', 'root', '123', 'development');
+    $db = new MysqliDb('host', 'database_username', 'my_password', 'database_name');
 
 By default this will look for a table called 'user' in the database.
 
