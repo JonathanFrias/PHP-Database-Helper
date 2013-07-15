@@ -7,7 +7,8 @@ Create database schema:
             `username` VARCHAR(45) NULL ,
             `email` VARCHAR(45) NULL ,
             `password` VARCHAR(45) NULL ,
-            PRIMARY KEY (`user_id`) );
+            PRIMARY KEY (`user_id`) 
+    );
 
 Now use the class.
 
