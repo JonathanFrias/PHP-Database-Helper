@@ -30,19 +30,19 @@ Create a database connection using the provided helper
 
     $db = new MysqliDb('host', 'database_username', 'my_password', 'database_name');
 
-By default this will look for a table called 'user' in the database.
+By default this will look for a table that has the same name as the class. In this case it is 'user'.
 
     new User($db);
 
-You can override this by telling it what your table name is
+You can override this by telling it what your table name is.
 
     new User($db, 'users');
 
-By default it will also look for a primary key called classname_id or in our case
-user_id. There is no need to override in this case but you can specify it here.
+By default it will also look for a primary key called classname_id (in our case
+user_id) There is no need to override in this case but you can specify it here.
 
     $user = new User($db, 'users', 'user_id');
-
+    
 Find a row. You can use any database column here.
 
     $rows = $user -> find_where(
@@ -55,24 +55,24 @@ Find a row. You can use any database column here.
 Print all rows found
 
     print_r($rows);
-    print_r($user -> rows);    
+    print_r($user -> rows);
 
-By convention the currently active row(default $rows[0]) is set as follows:
-
-    print_r($rows[0]);
-also notice that this will print out the same as above.
+By convention the currently active row (default $rows[0]) is set.
+Notice that this will print out the same row.
 
     print_r($user -> row);
+    print_r($user -> rows[0]);
 
 There is a coressponding function for every column in the database.
 
     $user -> password("new password!");
 
-Save your object to the database. This ORM uses prepared statements to run all of the inserts.
+Save your object to the database. 
+Don't worry about SQL injection! This ORM uses prepared statements to run all of the inserts.
 
     $user -> save();
 
-reset rows
+Reset resultset
 
     $user -> reset();//$user -> row = null; $user -> rows = null;
 
